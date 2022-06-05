@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import struct
-import smbus
+import smbus2
 
 I2C_ADDR    = 0x36
 
